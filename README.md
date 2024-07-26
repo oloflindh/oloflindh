@@ -5,8 +5,8 @@
 
 ## We're hiring engineers 🚀
 - 🦄 Want to be a core team member and ride the next unicorn? 😉
-- 👯 [We're hiring engineers!](https://www.kive.ai/jobs) Looking for talented full stack engineers (JavaScript/TypeScript) who can just pick up a problem and solve it.
-- 🌍 If you want to have high impact on creativity in the world, you should consider [applying](https://www.kive.ai/jobs).
+- 👯 [We're hiring engineers!](https://www.kive.ai/careers) Looking for talented full stack engineers (JavaScript/TypeScript) who can just pick up a problem and solve it.
+- 🌍 If you want to have high impact on creativity in the world, you should consider [applying](https://www.kive.ai/careers).
 
 ## Reach out
 
